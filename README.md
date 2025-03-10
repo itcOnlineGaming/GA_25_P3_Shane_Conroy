@@ -1,7 +1,7 @@
 # <B>Entity Spawn Manager</B>
 
 ## <U>Setting up the component</U>
-### First the User must add the component using the Package Manager within the Windows tab inside Unity. Then the User must click on the "+" icon and select "Add package from git URL..." and enter this [link](https://www.youtube.com/watch?v=HeyC9o3Q9wA)
+### First the User must add the component using the Package Manager within the Windows tab inside Unity. Then the User must click on the "+" icon and select "Add package from git URL..." and enter this [link](https://www.youtube.com/watch?v=HeyC9o3Q9wA(Temp link))
 
 ## <U>Brief Description</U>
 
