@@ -1,12 +1,26 @@
-# <B>Entity Spawn Manager</B>
+# **Entity Spawn Manager**  
 
-## <U>Setting up the component</U>
-### First the User must add the component using the Package Manager within the Windows tab inside Unity. Then the User must click on the "+" icon and select "Add package from git URL..." and enter this [link](https://www.youtube.com/watch?v=HeyC9o3Q9wA) (Temp link)
+## **Setting Up the Component**  
+### First, the user must add the component using the **Package Manager** within the **Window** tab inside Unity.  
+1. Click on the **"+"** icon.  
+2. Select **"Add package from git URL..."**  
+3. Enter this [link](https://www.youtube.com/watch?v=HeyC9o3Q9wA) (*Temporary link*).  
 
-## <U>Brief Description</U>
+---  
 
-### The Entity Spawn Manager is a grid based component that will allow anyone who uses it to wuickly add a grid on top of their disered location and within the grid designate entities to spawn within each tile.
-### The User can also assign constraints to the grid such as minimum amount of entities required in the whole grid, set amount of entities in the rows, set amount of entities in the coloumns.
-### The User can also change the size of the grid to suit their needs as well.
+## **Brief Description**  
 
-##
+The **Entity Spawn Manager** is a **grid-based** component that allows users to quickly generate a grid at a desired location and designate specific entities to spawn within each tile.  
+
+### Features:  
+- Users can assign **constraints** to the grid, such as:  
+  - Minimum number of entities required in the grid.  
+  - Fixed number of entities per row.  
+  - Fixed number of entities per column.  
+- The **grid size** is adjustable to fit the user's needs.  
+
+---  
+
+## **Setting Up the Component**  
+
+(*You might have meant to add more content here—let me know!*)  
