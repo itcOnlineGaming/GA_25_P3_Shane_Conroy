@@ -23,3 +23,4 @@ The **Entity Spawn Manager** is a **grid-based** component that allows users to 
 
 ## **Setting Up the Component**  
 
+![doodoodalittldoodoo](https://github.com/user-attachments/assets/2fde6e0d-83a2-4b3b-8a34-cff03c20281b)
