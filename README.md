@@ -14,7 +14,9 @@ The **Entity Spawn Manager** is a **grid-based** component that allows users to 
 
 ### Features:  
 - Users can assign **constraints** to the grid, such as:  
-  - Minimum number of entities required in the grid.  
+  - Minimum number of entities required in the grid.
+  - ![image](https://github.com/user-attachments/assets/aa903b2e-7326-4c43-b5cd-71fd46c3e4aa)
+
   - Fixed number of entities per row.  
   - Fixed number of entities per column.  
 - The **grid size** is adjustable to fit the user's needs.  
@@ -22,5 +24,3 @@ The **Entity Spawn Manager** is a **grid-based** component that allows users to 
 ---  
 
 ## **Setting Up the Component**  
-
-![doodoodalittldoodoo](https://github.com/user-attachments/assets/2fde6e0d-83a2-4b3b-8a34-cff03c20281b)
