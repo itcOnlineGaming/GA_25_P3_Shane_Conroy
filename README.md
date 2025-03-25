@@ -21,7 +21,9 @@ The **Entity Spawn Manager** is a **grid-based** component that allows users to 
   - Fixed number of entities per row or col
     - ![image](https://github.com/user-attachments/assets/b1736d49-9a46-413a-866c-675582c268c4)
 
- 
+  - Specific tiles to spawn an entity
+      - ![image](https://github.com/user-attachments/assets/f857a04f-705f-4f03-ad6b-3939d2083ed1)
+    
 - The **grid size** is adjustable to fit the user's needs.  
 
 ---  
