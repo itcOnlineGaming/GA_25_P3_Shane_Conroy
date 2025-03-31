@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 372006940}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: Canvas
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -254,10 +254,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gridTile: {fileID: 6088223890680143693, guid: 4c3546f7c36015d4bbd47774207436af, type: 3}
-  enityOne: {fileID: 0}
-  enityTwo: {fileID: 0}
+  enityOne: {fileID: 4768239785885543093, guid: 43cb6370853c1b146964aae3d434a7a2, type: 3}
+  enityTwo: {fileID: 7322651744072084511, guid: f30824b65541b304cba7a57fccab87af, type: 3}
   gridWidth: 4
   gridHeight: 4
+  tileSpacing: 1.1
 --- !u!4 &397496459
 Transform:
   m_ObjectHideFlags: 0
