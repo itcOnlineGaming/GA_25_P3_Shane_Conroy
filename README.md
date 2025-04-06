@@ -11,12 +11,16 @@ To add the **Entity Spawn Manager**, follow these steps:
 ---  
 
 ## **Brief Description**  
-The **Entity Spawn Manager** is a **grid-based** component that allows users to quickly generate a grid at a desired location and assign specific entities to spawn within each tile.  
+The **Entity Spawn Manager** is a **grid-based** component that allows developers to quickly generate a grid at a desired location and assign specific entities to spawn within each tile. This will give developers an easy method of generating a grid and spawning prefabs before run time.
 
 ### **Key Features**  
-- Users can define **constraints** for entity placement:
+- Users can define **constraints** for entity placement within the grid:
+- 
 - User can assign the amount of the rows and cols via the inspector
-    - ![image](https://github.com/user-attachments/assets/62809618-0271-4788-9cf2-44b1f0a0bc9b)
+    - Putting these numbers in will result in a grid shown below
+    - ![image](https://github.com/user-attachments/assets/e55300fa-85eb-4a62-a46b-ae32013a1627)
+    - ![image](https://github.com/user-attachments/assets/12c6287b-2a2b-42c3-994d-d6ab9804e201)
+
 
   - **Minimum number of entities in the grid**  
     - If no specific rows or columns are defined, entities will spawn randomly.  
