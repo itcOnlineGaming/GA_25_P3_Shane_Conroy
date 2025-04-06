@@ -21,13 +21,14 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
     - ![image](https://github.com/user-attachments/assets/e55300fa-85eb-4a62-a46b-ae32013a1627)
     - ![image](https://github.com/user-attachments/assets/12c6287b-2a2b-42c3-994d-d6ab9804e201)
 
-- Users can drag and drop prefabs into the "Entities" list in the inspector
+- Users can drag and drop prefabs into the "Entities" list in the inspector. The entities placed in this list can be used for the grid.
 - ![image](https://github.com/user-attachments/assets/defbc259-ecb3-4c58-b73d-73bacb2cd759)
 
 
-  - **Minimum number of entities in the grid**  
-    - If no specific rows or columns are defined, entities will spawn randomly.  
-    - <img src="https://github.com/user-attachments/assets/76b6e7a6-fa2b-47f3-ae43-226300b87167" width="50%">  
+  - **Minimum number of entities in the grid**
+    - The User can define minimums for each Entity. This will spawn the minimum amount on the grid.
+    - ![image](https://github.com/user-attachments/assets/bf5f56fb-e974-4333-a863-de8bbdedf895)
+    - If no specific rows or columns are defined, entities will spawn randomly.
   
   - **Fixed number of entities per row or column**  
     - <img src="https://github.com/user-attachments/assets/b1736d49-9a46-413a-866c-675582c268c4" width="50%">  
