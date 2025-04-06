@@ -1,0 +1,9 @@
+{
+  "name": "EntitySpawnManager.Editor",
+  "references": [
+    "EntitySpawnManager.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

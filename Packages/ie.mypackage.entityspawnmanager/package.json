@@ -1,6 +1,6 @@
 {
   "name": "ie.mypackage.entityspawnmanager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Entity Spawn Manager",
   "description": "Package for entity spawn manager.",
   "unity": "2022.3",
