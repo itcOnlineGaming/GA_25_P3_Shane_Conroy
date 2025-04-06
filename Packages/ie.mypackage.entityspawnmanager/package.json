@@ -1,0 +1,11 @@
+{
+  "name": "ie.mypackage.entityspawnmanager",
+  "version": "1.0.2",
+  "displayName": "Entity Spawn Manager",
+  "description": "Package for entity spawn manager.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Shane Conroy",
+    "email": "c00270031@setu.ie"
+  }
+}
