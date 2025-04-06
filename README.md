@@ -29,6 +29,8 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
   - The User can define minimums for each Entity. This will spawn the minimum amount on the grid.
   - ![image](https://github.com/user-attachments/assets/bf5f56fb-e974-4333-a863-de8bbdedf895)
   - If no specific rows or columns are defined, entities will spawn randomly.
+  - ![image](https://github.com/user-attachments/assets/d077d6db-98c8-4af9-96ed-27f32f2e5c8e)
+
 
 - **Fixed number of entities per row or column**
   - <img src="https://github.com/user-attachments/assets/b1736d49-9a46-413a-866c-675582c268c4" width="50%">  
