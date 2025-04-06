@@ -22,7 +22,7 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
     - ![image](https://github.com/user-attachments/assets/12c6287b-2a2b-42c3-994d-d6ab9804e201)
 
 - Users can drag and drop prefabs into the "Entities" list in the inspector. The entities placed in this list can be used for the grid.
-- ![image](https://github.com/user-attachments/assets/defbc259-ecb3-4c58-b73d-73bacb2cd759)
+   - ![image](https://github.com/user-attachments/assets/defbc259-ecb3-4c58-b73d-73bacb2cd759)
 
 
   - **Minimum number of entities in the grid**
