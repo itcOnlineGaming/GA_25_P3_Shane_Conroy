@@ -36,7 +36,7 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
   -  If the User wishes to, they can fill out entire rows at once with the buttons on the side of the grid
   -  ![image](https://github.com/user-attachments/assets/ee90a67b-0283-4fad-9e6a-82ad5537026a)
   -  A grid like thew one below will result in 2 columns of blue and one row of red
-  -  ![image](https://github.com/user-attachments/assets/38a6b7a1-3989-4dd6-9580-af4d00116c22) ![image](https://github.com/user-attachments/assets/7c78aded-2e6b-4f2b-aee7-4f396063503c)
+  -  ![image](https://github.com/user-attachments/assets/38a6b7a1-3989-4dd6-9580-af4d00116c22) ------- ![image](https://github.com/user-attachments/assets/7c78aded-2e6b-4f2b-aee7-4f396063503c)
 
 
 
