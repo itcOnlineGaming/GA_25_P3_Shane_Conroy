@@ -42,11 +42,11 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
   -  ![image](https://github.com/user-attachments/assets/ee90a67b-0283-4fad-9e6a-82ad5537026a)
   -  A grid like thew one below will result in 2 columns of blue and one row of red
   -  ![image](https://github.com/user-attachments/assets/38a6b7a1-3989-4dd6-9580-af4d00116c22) ------- ![image](https://github.com/user-attachments/assets/7c78aded-2e6b-4f2b-aee7-4f396063503c)
-  -  ![demo4](https://github.com/user-attachments/assets/c17ea437-0fbf-4033-a31e-fd048275c52a)
+  -  <img src="https://github.com/user-attachments/assets/c17ea437-0fbf-4033-a31e-fd048275c52a" width="50%">
 
 - **Specific tiles for spawning or preventing entity spawns**  
   - If the User wishes to specify where he wants to place specific entities, they can do so by clicking directly on the grid. Each consecutive click will cycle through the grid to the amount of entities the User has placed in the list.
-  - ![demo5](https://github.com/user-attachments/assets/0adc458f-9048-4936-b338-ca3651bd7e05)
+  - <img src="https://github.com/user-attachments/assets/0adc458f-9048-4936-b338-ca3651bd7e05" width="50%">
 
 
 - **Once you're ready**
