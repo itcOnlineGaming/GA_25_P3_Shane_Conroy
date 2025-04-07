@@ -8,7 +8,10 @@ To add the **Entity Spawn Manager**, follow these steps:
 3. Click the **"+"** icon and choose **"Add package from git URL..."**.  
 4. Enter this link: https://github.com/itcOnlineGaming/GA_25_P3_Shane_Conroy.git?path=/Packages/ie.mypackage.entityspawnmanager#v1.0.3
 ---  
+## Once Installed
 
+There will be a folder labelled "Editor"
+---
 ## **Brief Description**  
 The **Entity Spawn Manager** is a **grid-based** component that allows developers to quickly generate a grid at a desired location and assign specific entities to spawn within each tile. This will give developers an easy method of generating a grid and spawning prefabs before run time.
 
