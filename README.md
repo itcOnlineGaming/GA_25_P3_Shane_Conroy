@@ -9,7 +9,7 @@ To add the **Entity Spawn Manager**, follow these steps:
 4. Enter this link: https://github.com/itcOnlineGaming/GA_25_P3_Shane_Conroy.git?path=/Packages/ie.mypackage.entityspawnmanager#v1.0.3
 ---  
 ## Once Installed
-- There will be a new folder labelled "Editor," inside will be a script labelled **GridControllerEditor.cs** This script will change the inspector based on where you attach the other script, you wont have to move or
+- Inside the **"Runtime"** folder, there will be a new folder labelled **"Editor,"** inside will be a script labelled **GridControllerEditor.cs** This script will change the inspector based on where you attach the other script, you wont have to move or
   change this one. **Grid Manager.cs** is the main script, and you will have to attach this to objects in your scene.
 - Usually the **Grid Manager.cs** script will be attached to an empty object because this script will be the point at where the grid generates, and the entities spawn.
   
