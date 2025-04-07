@@ -7,6 +7,7 @@ To add the **Entity Spawn Manager**, follow these steps:
 2. Select **Package Manager**.  
 3. Click the **"+"** icon and choose **"Add package from git URL..."**.  
 4. Enter this [link](https://github.com/itcOnlineGaming/GA_25_P3_Shane_Conroy.git?path=/Packages/ie.mypackage.entityspawnmanager#v1.0.3)
+5. Raw link: https://github.com/itcOnlineGaming/GA_25_P3_Shane_Conroy.git?path=/Packages/ie.mypackage.entityspawnmanager#v1.0.3
 
 ---  
 
