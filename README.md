@@ -14,8 +14,7 @@ To add the **Entity Spawn Manager**, follow these steps:
 - Usually the **Grid Manager.cs** script will be attached to an empty object because this script will be the point at where the grid generates, and the entities spawn.
   
    <img src="https://github.com/user-attachments/assets/6009ab19-3edc-4592-a220-a9311330298f" width="50%" alt="addingScripts">
-
-
+   
 ---
 ## **Brief Description**  
 The **Entity Spawn Manager** is a **grid-based** component that allows developers to quickly generate a grid at a desired location and assign specific entities to spawn within each tile. This will give developers an easy method of generating a grid and spawning prefabs before run time.
@@ -27,7 +26,8 @@ The **Entity Spawn Manager** is a **grid-based** component that allows developer
   - Putting these numbers in will result in a grid shown below
   - ![image](https://github.com/user-attachments/assets/e55300fa-85eb-4a62-a46b-ae32013a1627)
   - ![image](https://github.com/user-attachments/assets/12c6287b-2a2b-42c3-994d-d6ab9804e201)
-
+  - <img src="![demo1](https://github.com/user-attachments/assets/f7c0c52b-9bb9-41ae-8912-149f13899bef)" width="50%" alt="addingScripts">
+  
 - Users can drag and drop prefabs into the "Entities" list in the inspector. The entities placed in this list can be used for the grid.
   - ![image](https://github.com/user-attachments/assets/defbc259-ecb3-4c58-b73d-73bacb2cd759)
 
