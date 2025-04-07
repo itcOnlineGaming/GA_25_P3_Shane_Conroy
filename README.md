@@ -9,13 +9,16 @@ To add the **Entity Spawn Manager**, follow these steps:
 4. Enter this link: https://github.com/itcOnlineGaming/GA_25_P3_Shane_Conroy.git?path=/Packages/ie.mypackage.entityspawnmanager#v1.0.3
 ---  
 ## Once Installed
-- There will be a new folder labelled "Editor," inside will be a script labelled **GridControllerEditor.cs** This script will change the inspector based on where you attach the other script, **Grid Manager.cs**
+- There will be a new folder labelled "Editor," inside will be a script labelled **GridControllerEditor.cs** This script will change the inspector based on where you attach the other script, you wont have to move or
+  change this one. **Grid Manager.cs** is the main script, and you will have to attach this to objects in your scene.
 - Usually the **Grid Manager.cs** script will be attached to an empty object because this script will be the point at where the grid generates, and the entities spawn.
+   ![image](https://github.com/user-attachments/assets/7bfffcba-88af-4017-ad3f-155d3e0fb05b)
+
 ---
 ## **Brief Description**  
 The **Entity Spawn Manager** is a **grid-based** component that allows developers to quickly generate a grid at a desired location and assign specific entities to spawn within each tile. This will give developers an easy method of generating a grid and spawning prefabs before run time.
 
-### **Key Features**  
+### **The Features**  
 - Users can define **constraints** for entity placement within the grid:
  
 - Users can assign the amount of the rows and cols via the inspector
