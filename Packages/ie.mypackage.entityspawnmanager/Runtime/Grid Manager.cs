@@ -1,8 +1,15 @@
-using UnityEngine;
 using System.Collections.Generic;
+using UnityEditor.SceneTemplate;
+using UnityEngine;
+using UnityEngine.Analytics;
 
 public class GridController : MonoBehaviour
 {
+    bool timeOn = false;
+    float timer;
+    int timer_toInt;
+    int currentStep = 0;
+
     [Header("Grid Settings")]
     public GameObject gridTile;
     public int gridWidth = 4;
@@ -115,4 +122,56 @@ public class GridController : MonoBehaviour
             }
         }
     }
+
+    public void Update()
+    {
+        // Timer activated when you click "Go" button
+        if (timeOn)
+        {
+            timer += Time.deltaTime;
+            timer_toInt = (int)timer;
+            Debug.Log(timer_toInt);
+        }
+    }
+    public void EnableTimer()
+    {
+        timer = 0;
+        timer_toInt = 0;
+        timeOn = true;
+    }
+    public void StopTimer()
+    {
+        timeOn = false;
+
+        sendData();
+
+        timer = 0;
+        timer_toInt = 0;
+        currentStep++;
+    }
+
+    public void sendData()
+    {
+        GameState data = new GameState
+        {
+            time_alive = timer_toInt, // Time took to make grid
+            player = "Shane",
+            player_wins = 0,
+            enemy_wins = 0,
+            number_of_player_parts = 0,
+            number_of_enemy_parts = 0,
+            player_parts_lost = 0,
+            enemy_parts_lost = 0,
+            current_round = currentStep, // Sends what step youre on
+            device_id = SystemInfo.deviceUniqueIdentifier,
+            key = "MonterEnergy",
+            AB_test = 0
+        };
+
+        string jsonData = JsonUtility.ToJson(data);
+
+        StartCoroutine(GameAnalytics.PostMethod(jsonData));
+    }
+
 }
+
